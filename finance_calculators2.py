@@ -23,3 +23,5 @@ elif X == value2:
     print(f"your monthly repayment value is {R}.00" )
 else:
     print("Invalid response. please enter either of the options listed above")
+
+print('adejoke')
